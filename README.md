@@ -1,8 +1,8 @@
-## SE16 Rated Puzzles
+# SE16 Rated Puzzles
 
 These 16x16 sudoku puzzle collections are from [here](http://forum.enjoysudoku.com). They have been rated using Sudoku16Explainer.
 
-# Puzzle Collections
+## Puzzle Collections
 
 - Sudoku16-MP - 2000 x sudoku 16x16 minimal puzzles from [here](http://forum.enjoysudoku.com/sudoku16-minimal-puzzles-t35780.html).
 
