@@ -1,0 +1,66 @@
+ 9  . 10  . 13  .  5  .  .  .  .  . 14  .  4  .
+ . 11  .  2  . 16  .  .  .  9  .  .  .  3  . 10
+12  .  3  .  9  .  .  .  7  . 16  .  .  . 11  .
+ . 14  .  5  .  .  .  3  .  8  .  4  .  .  .  2
+ 7  .  2  .  .  .  3  . 11  . 14  . 12  .  .  .
+ .  5  .  .  .  2  . 12  . 15  .  1  . 16  .  .
+ .  .  .  .  8  .  6  . 13  .  2  . 15  .  5  .
+ .  .  . 13  . 11  .  1  .  3  . 12  .  8  . 14
+ .  .  .  . 15  .  1  . 10  .  6  . 13  .  9  .
+ . 15  .  .  .  6  . 14  .  1  .  2  . 11  .  .
+ 1  . 13  .  .  . 12  .  3  .  8  .  5  .  .  .
+ . 10  .  3  .  .  .  5  . 14  .  7  .  .  .  6
+ 2  .  4  .  1  .  .  .  6  . 12  .  .  . 16  .
+ .  7  . 14  .  5  .  .  . 11  .  .  .  4  .  8
+ 6  .  5  . 11  .  4  .  .  .  .  . 10  . 15  .
+ . 16  .  1  .  7  .  9  .  .  . 15  .  6  . 12 #2
+
+http://forum.enjoysudoku.com/blue-s-ultimate-16x16s-t33587.html
+Blue's Ultimate 16x16s
+
+I.J.M.E.....N.D.
+.K.B.P...I...C.J
+L.C.I...G.P...K.
+.N.E...C.H.D...B
+G.B...C.K.N.L...
+.E...B.L.O.A.P..
+....H.F.M.B.O.E.
+...M.K.A.C.L.H.N
+....O.A.J.F.M.I.
+.O...F.N.A.B.K..
+A.M...L.C.H.E...
+.J.C...E.N.G...F
+B.D.A...F.L...P.
+.G.N.E...K...D.H
+F.E.K.D.....J.O.
+.P.A.G.I...O.F.L #2
+
+2.6, Pointing: Cells R10C11,R12C11: 13 in block and column: r2c11<>13, r4c11<>13, r14c11<>13, r15c11<>13, r16c11<>13
+2.6, Pointing: Cells R3C14,R3C16: 5 in block and row: r3c10<>5, r3c12<>5
+2.6, Pointing: Cells R5C10,R5C12: 6 in block and row: r5c2<>6, r5c4<>6, r5c15<>6
+2.6, Pointing: Cells R9C1,R9C3: 14 in block and row: r9c14<>14
+2.6, Pointing: Cells R12C9,R12C11: 15 in block and row: r12c14<>15
+2.6, Pointing: Cells R13C14,R13C16: 5 in block and row: r13c10<>5, r13c12<>5
+12.8, Contradiction Forcing Chain (w/10163 nodes): R11C16.16 on ==> R9C2.8 both on & off: r11c16<>16
+12.8, Contradiction Forcing Chain (w/11873 nodes): R1C16.15 on ==> R3C12.14 both on & off: r1c16<>15
+12.8, Contradiction Forcing Chain (w/11388 nodes): R11C16.4 on ==> R10C5.16 both on & off: r11c16<>4
+12.9, Contradiction Forcing Chain (w/12784 nodes): R10C11.5 on ==> R16C13.3 both on & off: r10c11<>5
+12.9, Contradiction Forcing Chain (w/15082 nodes): R11C14.15 on ==> R5C2.8 both on & off: r11c14<>15
+1.2, Hidden Single: R11C16: 15 in block: r11c16=15
+12.9, Contradiction Forcing Chain (w/15149 nodes): R7C1.10 on ==> R4C15.13 both on & off: r7c1<>10
+13.0, Contradiction Forcing Chain (w/18468 nodes): R13C16.3 on ==> R4C14.9 both on & off: r13c16<>3
+13.1, Contradiction Forcing Chain (w/26503 nodes): R11C14.7 on ==> R10C5.3 both on & off: r11c14<>7
+13.1, Contradiction Forcing Chain (w/30567 nodes): R1C16.1 on ==> R15C12.14 both on & off: r1c16<>1
+12.8, Contradiction Forcing Chain (w/8265 nodes): R6C15.10 on ==> R9C14.12 both on & off: r6c15<>10
+12.8, Contradiction Forcing Chain (w/8316 nodes): R6C13.9 on ==> R7C3.1 both on & off: r6c13<>9
+12.8, Contradiction Forcing Chain (w/11529 nodes): R8C13.9 on ==> R16C9.14 both on & off: r8c13<>9
+13.0, Contradiction Forcing Chain (w/17029 nodes): R6C15.13 on ==> R14C1.13 both on & off: r6c15<>13
+13.0, Contradiction Forcing Chain (w/18242 nodes): R15C16.3 on ==> R8C13.2 both on & off: r15c16<>3
+12.8, Contradiction Forcing Chain (w/11943 nodes): R8C15.10 on ==> R9C10.12 both on & off: r8c15<>10
+13.1, Contradiction Forcing Chain (w/25963 nodes): R10C11.4 on ==> R14C7.16 both on & off: r10c11<>4
+13.1, Contradiction Forcing Chain (w/30495 nodes): R13C16.13 on ==> R1C10.12 both on & off: r13c16<>13
+13.0, Contradiction Forcing Chain (w/24451 nodes): R9C16.16 on ==> R15C12.8 both on & off: r9c16<>16
+13.1, Contradiction Forcing Chain (w/24792 nodes): R10C1.16 on ==> R2C1.13 both on & off: r10c1<>16
+13.1, Contradiction Forcing Chain (w/28897 nodes): R11C15.2 on ==> R8C15.6 both on & off: r11c15<>2
+ED=20.0/12.9/2.6
+
