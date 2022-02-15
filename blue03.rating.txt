@@ -1,0 +1,518 @@
+ .  5  .  8  . 10  .  .  . 11  .  .  . 16  .  7
+ 6  .  3  .  2  .  .  . 16  .  9  .  .  . 15  .
+ . 15  . 12  .  .  . 13  .  1  .  6  .  .  .  9
+11  . 14  .  .  . 12  .  8  .  3  . 10  .  .  .
+ .  2  .  .  .  8  . 12  . 14  .  1  .  5  .  .
+ .  .  .  . 11  . 15  .  5  .  2  .  3  .  1  .
+ .  .  . 13  .  1  .  4  . 15  .  9  .  6  . 14
+ .  .  .  . 14  .  6  .  4  . 16  . 12  .  7  .
+ .  6  .  .  .  3  . 15  .  2  .  7  . 11  .  .
+ 5  . 12  .  .  .  8  .  6  . 13  .  9  .  .  .
+ . 16  .  4  .  .  . 11  .  3  . 14  .  .  .  8
+ 1  .  7  .  4  .  .  . 15  . 11  .  .  . 13  .
+ . 13  . 10  .  4  .  .  .  7  .  .  .  3  .  1
+14  .  8  .  1  .  9  .  .  .  .  .  7  . 10  .
+ .  9  .  6  . 11  . 16  .  .  .  5  .  2  . 15
+16  . 15  .  6  . 10  .  .  .  .  . 14  . 11  . #3
+
+http://forum.enjoysudoku.com/blue-s-ultimate-16x16s-t33587.html
+Blue's Ultimate 16x16s
+
+.E.H.J...K...P.G
+F.C.B...P.I...O.
+.O.L...M.A.F...I
+K.N...L.H.C.J...
+.B...H.L.N.A.E..
+....K.O.E.B.C.A.
+...M.A.D.O.I.F.N
+....N.F.D.P.L.G.
+.F...C.O.B.G.K..
+E.L...H.F.M.I...
+.P.D...K.C.N...H
+A.G.D...O.K...M.
+.M.J.D...G...C.A
+N.H.A.I.....G.J.
+.I.F.K.P...E.B.O
+P.O.F.J.....N.K. #3
+
+2.6, Pointing: Cells R1C15,R3C15: 3 in block and column: r10c15<>3
+2.6, Pointing: Cells R1C1,R1C3: 13 in block and row: r1c9<>13, r1c12<>13, r1c13<>13
+2.6, Pointing: Cells R3C9,R3C11: 7 in block and row: r3c1<>7, r3c5<>7, r3c6<>7, r3c7<>7
+6.6, Turbot Fish (w/4 nodes): R5C4.15 off: r5c4<>15
+9.1, Double Forcing Chain (w/6 nodes): R5C9.13 on & off ==> R15C10.13 off: r15c10<>13
+10.3, Contradiction Forcing Chain (w/311 nodes): R1C3.1 on ==> R13C8.5 both on & off: r1c3<>1
+12.2, Contradiction Forcing Chain (w/1082 nodes): R4C6.6 on ==> R13C1.2 both on & off: r4c6<>6
+2.6, Pointing: Cells R1C8,R4C8: 6 in block and column: r12c8<>6
+12.4, Contradiction Forcing Chain (w/2375 nodes): R1C7.14 on ==> R6C1.7 both on & off: r1c7<>14
+12.4, Contradiction Forcing Chain (w/2558 nodes): R14C10.13 on ==> R13C5.15 both on & off: r14c10<>13
+12.5, Contradiction Forcing Chain (w/3862 nodes): R1C8.1 on ==> R15C5.13 both on & off: r1c8<>1
+12.6, Contradiction Forcing Chain (w/4162 nodes): R4C4.1 on ==> R6C1.4 both on & off: r4c4<>1
+12.6, Contradiction Forcing Chain (w/4184 nodes): R10C16.4 on ==> R15C1.4 both on & off: r10c16<>4
+12.6, Contradiction Forcing Chain (w/5072 nodes): R1C8.14 on ==> R5C4.11 both on & off: r1c8<>14
+12.6, Contradiction Forcing Chain (w/5198 nodes): R16C10.13 on ==> R5C13.11 both on & off: r16c10<>13
+12.6, Contradiction Forcing Chain (w/5378 nodes): R10C16.16 on ==> R7C13.8 both on & off: r10c16<>16
+12.7, Contradiction Forcing Chain (w/6748 nodes): R3C7.14 on ==> R6C4.14 both on & off: r3c7<>14
+12.8, Contradiction Forcing Chain (w/8504 nodes): R8C4.3 on ==> R16C6.2 both on & off: r8c4<>3
+12.7, Contradiction Forcing Chain (w/7827 nodes): R10C14.4 on ==> R2C8.7 both on & off: r10c14<>4
+12.2, Contradiction Forcing Chain (w/1289 nodes): R12C10.10 on ==> R3C6.5 both on & off: r12c10<>10
+12.6, Contradiction Forcing Chain (w/5172 nodes): R1C1.4 on ==> R6C6.16 both on & off: r1c1<>4
+12.6, Contradiction Forcing Chain (w/5013 nodes): R2C13.1 on ==> R8C2.8 both on & off: r2c13<>1
+12.6, Contradiction Forcing Chain (w/5927 nodes): R14C12.13 on ==> R8C12.3 both on & off: r14c12<>13
+12.6, Contradiction Forcing Chain (w/6089 nodes): R10C4.14 on ==> R15C7.3 both on & off: r10c4<>14
+12.7, Contradiction Forcing Chain (w/6392 nodes): R1C3.4 on ==> R11C6.9 both on & off: r1c3<>4
+12.6, Contradiction Forcing Chain (w/5657 nodes): R3C14.4 on ==> R6C16.10 both on & off: r3c14<>4
+12.4, Contradiction Forcing Chain (w/2981 nodes): R3C11.14 on ==> R7C11.12 both on & off: r3c11<>14
+12.5, Contradiction Forcing Chain (w/3109 nodes): R1C15.14 on ==> R8C3.5 both on & off: r1c15<>14
+2.8, Claiming: Cells R1C9,R1C11: 14 in row and block: r3c9<>14
+12.7, Contradiction Forcing Chain (w/6449 nodes): R10C2.10 on ==> R6C8.9 both on & off: r10c2<>10
+12.7, Contradiction Forcing Chain (w/6844 nodes): R6C3.10 on ==> R8C12.10 both on & off: r6c3<>10
+12.8, Contradiction Forcing Chain (w/8429 nodes): R10C14.14 on ==> R9C3.13 both on & off: r10c14<>14
+12.8, Contradiction Forcing Chain (w/8841 nodes): R11C6.2 on ==> R2C8.8 both on & off: r11c6<>2
+12.8, Contradiction Forcing Chain (w/8577 nodes): R6C2.10 on ==> R8C3.5 both on & off: r6c2<>10
+12.8, Contradiction Forcing Chain (w/9894 nodes): R5C9.13 on ==> R7C1.7 both on & off: r5c9<>13
+2.8, Claiming: Cells R14C9,R15C9,R16C9: 13 in column and block: r16c12<>13
+12.6, Contradiction Forcing Chain (w/5981 nodes): R10C16.10 on ==> R6C8.7 both on & off: r10c16<>10
+12.7, Contradiction Forcing Chain (w/8083 nodes): R8C2.11 on ==> R3C3.2 both on & off: r8c2<>11
+12.8, Contradiction Forcing Chain (w/9015 nodes): R14C2.11 on ==> R10C15.14 both on & off: r14c2<>11
+12.6, Contradiction Forcing Chain (w/4884 nodes): R10C2.14 on ==> R3C1.4 both on & off: r10c2<>14
+12.6, Contradiction Forcing Chain (w/6143 nodes): R3C15.14 on ==> R15C7.3 both on & off: r3c15<>14
+2.6, Pointing: Cells R2C14,R3C14: 14 in block and column: r12c14<>14
+12.8, Contradiction Forcing Chain (w/8405 nodes): R10C15.16 on ==> R14C2.3 both on & off: r10c15<>16
+12.8, Contradiction Forcing Chain (w/12197 nodes): R5C4.3 on ==> R8C14.10 both on & off: r5c4<>3
+12.5, Contradiction Forcing Chain (w/3835 nodes): R7C2.11 on ==> R4C8.9 both on & off: r7c2<>11
+1.5, Hidden Single: R10C2: 11 in column: r10c2=11
+12.5, Contradiction Forcing Chain (w/3338 nodes): R14C4.3 on ==> R11C13.2 both on & off: r14c4<>3
+12.8, Contradiction Forcing Chain (w/11006 nodes): R7C2.7 on ==> R15C9.3 both on & off: r7c2<>7
+12.7, Contradiction Forcing Chain (w/6971 nodes): R12C4.9 on ==> R8C14.9 both on & off: r12c4<>9
+12.7, Contradiction Forcing Chain (w/6997 nodes): R5C4.9 on ==> R16C9.13 both on & off: r5c4<>9
+12.8, Contradiction Forcing Chain (w/9530 nodes): R14C6.5 on ==> R2C8.5 both on & off: r14c6<>5
+12.8, Contradiction Forcing Chain (w/9468 nodes): R2C7.14 on ==> R4C12.4 both on & off: r2c7<>14
+12.6, Contradiction Forcing Chain (w/5828 nodes): R10C6.16 on ==> R5C4.11 both on & off: r10c6<>16
+12.8, Contradiction Forcing Chain (w/9350 nodes): R13C3.2 on ==> R2C14.12 both on & off: r13c3<>2
+12.7, Contradiction Forcing Chain (w/6395 nodes): R5C3.11 on ==> R10C12.4 both on & off: r5c3<>11
+12.6, Contradiction Forcing Chain (w/5888 nodes): R13C9.11 on ==> R1C11.15 both on & off: r13c9<>11
+12.7, Contradiction Forcing Chain (w/7348 nodes): R3C15.4 on ==> R4C4.7 both on & off: r3c15<>4
+12.8, Contradiction Forcing Chain (w/9885 nodes): R12C2.10 on ==> R8C14.13 both on & off: r12c2<>10
+12.7, Contradiction Forcing Chain (w/7239 nodes): R3C9.2 on ==> R9C5.12 both on & off: r3c9<>2
+12.2, Contradiction Forcing Chain (w/1345 nodes): R1C8.9 on ==> R14C8.2 both on & off: r1c8<>9
+12.7, Contradiction Forcing Chain (w/6339 nodes): R1C1.2 on ==> R6C4.16 both on & off: r1c1<>2
+12.7, Contradiction Forcing Chain (w/6952 nodes): R1C13.6 on ==> R14C11.6 both on & off: r1c13<>6
+12.7, Contradiction Forcing Chain (w/7167 nodes): R13C12.2 on ==> R8C10.8 both on & off: r13c12<>2
+12.8, Contradiction Forcing Chain (w/8998 nodes): R3C7.5 on ==> R8C12.3 both on & off: r3c7<>5
+12.7, Contradiction Forcing Chain (w/6762 nodes): R4C16.5 on ==> R6C3.16 both on & off: r4c16<>5
+12.8, Contradiction Forcing Chain (w/11785 nodes): R11C13.2 on ==> R7C11.12 both on & off: r11c13<>2
+12.5, Contradiction Forcing Chain (w/3889 nodes): R11C14.10 on ==> R12C16.2 both on & off: r11c14<>10
+12.5, Contradiction Forcing Chain (w/3974 nodes): R14C12.12 on ==> R10C10.4 both on & off: r14c12<>12
+12.6, Contradiction Forcing Chain (w/4527 nodes): R15C10.4 on ==> R12C12.8 both on & off: r15c10<>4
+12.6, Contradiction Forcing Chain (w/4101 nodes): R13C12.12 on ==> R9C9.12 both on & off: r13c12<>12
+12.7, Contradiction Forcing Chain (w/6985 nodes): R12C16.5 on ==> R1C9.14 both on & off: r12c16<>5
+12.8, Contradiction Forcing Chain (w/9837 nodes): R2C7.5 on ==> R16C11.4 both on & off: r2c7<>5
+12.6, Contradiction Forcing Chain (w/4685 nodes): R13C13.5 on ==> R12C16.3 both on & off: r13c13<>5
+12.6, Contradiction Forcing Chain (w/5854 nodes): R16C6.5 on ==> R16C11.1 both on & off: r16c6<>5
+12.6, Contradiction Forcing Chain (w/5310 nodes): R7C3.11 on ==> R12C14.12 both on & off: r7c3<>11
+12.6, Contradiction Forcing Chain (w/5140 nodes): R2C10.10 on ==> R6C1.7 both on & off: r2c10<>10
+12.5, Contradiction Forcing Chain (w/3540 nodes): R9C11.4 on ==> R7C15.8 both on & off: r9c11<>4
+2.6, Pointing: Cells R10C10,R10C12: 4 in block and row: r10c15<>4
+12.6, Contradiction Forcing Chain (w/4106 nodes): R3C3.10 on ==> R8C12.3 both on & off: r3c3<>10
+12.6, Contradiction Forcing Chain (w/4499 nodes): R9C16.5 on ==> R12C6.6 both on & off: r9c16<>5
+12.6, Contradiction Forcing Chain (w/4696 nodes): R8C4.9 on ==> R13C15.5 both on & off: r8c4<>9
+12.4, Contradiction Forcing Chain (w/2821 nodes): R12C6.14 on ==> R12C4.2 both on & off: r12c6<>14
+12.7, Contradiction Forcing Chain (w/6320 nodes): R13C11.12 on ==> R5C7.16 both on & off: r13c11<>12
+12.4, Contradiction Forcing Chain (w/2962 nodes): R16C16.13 on ==> R12C2.8 both on & off: r16c16<>13
+12.6, Contradiction Forcing Chain (w/4364 nodes): R13C9.14 on ==> R8C4.1 both on & off: r13c9<>14
+12.6, Contradiction Forcing Chain (w/4944 nodes): R14C16.4 on ==> R10C5.16 both on & off: r14c16<>4
+12.6, Contradiction Forcing Chain (w/5149 nodes): R10C14.10 on ==> R2C8.5 both on & off: r10c14<>10
+12.3, Contradiction Forcing Chain (w/1861 nodes): R6C10.10 on ==> R12C16.12 both on & off: r6c10<>10
+12.4, Contradiction Forcing Chain (w/2285 nodes): R12C8.10 on ==> R4C10.5 both on & off: r12c8<>10
+12.6, Contradiction Forcing Chain (w/4444 nodes): R16C8.5 on ==> R4C4.2 both on & off: r16c8<>5
+12.0, Contradiction Forcing Chain (w/679 nodes): R14C16.5 on ==> R8C10.13 both on & off: r14c16<>5
+10.1, Contradiction Forcing Chain (w/164 nodes): R16C16.4 on ==> R3C11.7 both on & off: r16c16<>4
+12.2, Contradiction Forcing Chain (w/1431 nodes): R16C4.5 on ==> R16C12.3 both on & off: r16c4<>5
+1.5, Hidden Single: R16C16: 5 in row: r16c16=5
+3.4, Hidden Pair: Cells R13C3,R14C4: 5,11 in block: r14c4<>2
+12.5, Contradiction Forcing Chain (w/3671 nodes): R13C7.2 on ==> R12C14.12 both on & off: r13c7<>2
+12.4, Contradiction Forcing Chain (w/2105 nodes): R10C8.2 on ==> R2C7.7 both on & off: r10c8<>2
+12.4, Contradiction Forcing Chain (w/2986 nodes): R5C13.16 on ==> R14C6.12 both on & off: r5c13<>16
+12.4, Contradiction Forcing Chain (w/2550 nodes): R2C7.1 on ==> R14C2.4 both on & off: r2c7<>1
+7.8, Nishio Forcing Chain (w/9 nodes): R11C14.1 on ==> R1C7.1 both on & off: r11c14<>1
+12.4, Contradiction Forcing Chain (w/2735 nodes): R2C16.4 on ==> R12C13.16 both on & off: r2c16<>4
+12.4, Contradiction Forcing Chain (w/3059 nodes): R6C2.4 on ==> R10C12.4 both on & off: r6c2<>4
+12.4, Contradiction Forcing Chain (w/2084 nodes): R14C12.2 on ==> R3C13.2 both on & off: r14c12<>2
+12.4, Contradiction Forcing Chain (w/2849 nodes): R5C3.10 on ==> R7C13.2 both on & off: r5c3<>10
+12.5, Contradiction Forcing Chain (w/3181 nodes): R3C7.3 on ==> R15C13.8 both on & off: r3c7<>3
+12.4, Contradiction Forcing Chain (w/2466 nodes): R15C7.14 on ==> R4C4.16 both on & off: r15c7<>14
+2.6, Pointing: Cells R13C7,R13C8: 14 in block and row: r13c11<>14
+12.3, Contradiction Forcing Chain (w/2007 nodes): R16C4.1 on ==> R3C13.8 both on & off: r16c4<>1
+11.9, Contradiction Forcing Chain (w/453 nodes): R2C2.1 on ==> R10C15.2 both on & off: r2c2<>1
+12.4, Contradiction Forcing Chain (w/2062 nodes): R4C6.7 on ==> R14C16.16 both on & off: r4c6<>7
+12.4, Contradiction Forcing Chain (w/2456 nodes): R2C14.1 on ==> R6C16.13 both on & off: r2c14<>1
+12.3, Contradiction Forcing Chain (w/1612 nodes): R11C6.7 on ==> R5C1.3 both on & off: r11c6<>7
+12.4, Contradiction Forcing Chain (w/2181 nodes): R2C8.5 on ==> R13C15.9 both on & off: r2c8<>5
+12.4, Contradiction Forcing Chain (w/2683 nodes): R12C6.2 on ==> R3C5.3 both on & off: r12c6<>2
+12.4, Cell Forcing Chains (w/2498 nodes): R8C4 ==> R14C12.15 off: r14c12<>15
+12.4, Contradiction Forcing Chain (w/2433 nodes): R8C8.2 on ==> R2C2.4 both on & off: r8c8<>2
+10.8, Contradiction Forcing Chain (w/342 nodes): R16C6.2 on ==> R14C14.13 both on & off: r16c6<>2
+12.2, Contradiction Forcing Chain (w/1469 nodes): R14C6.2 on ==> R8C2.10 both on & off: r14c6<>2
+2.6, Pointing: Cells R13C8,R14C8,R16C8: 2 in block and column: r12c8<>2
+11.8, Contradiction Forcing Chain (w/1914 nodes): R13C3.5 on ==> R9C16.12 both on & off: r13c3<>5
+1.2, Hidden Single: R14C4: 5 in block: r14c4=5
+1.2, Hidden Single: R13C3: 11 in block: r13c3=11
+11.0, Contradiction Forcing Chain (w/642 nodes): R13C8.2 on ==> R9C16.4 both on & off: r13c8<>2
+11.5, Contradiction Forcing Chain (w/615 nodes): R14C16.13 on ==> R14C10.16 both on & off: r14c16<>13
+11.6, Contradiction Forcing Chain (w/772 nodes): R2C8.14 on ==> R8C10.13 both on & off: r2c8<>14
+2.6, Pointing: Cells R2C6,R3C6: 14 in block and column: r10c6<>14
+11.6, Contradiction Forcing Chain (w/922 nodes): R14C16.12 on ==> R6C10.6 both on & off: r14c16<>12
+10.8, Contradiction Forcing Chain (w/333 nodes): R11C14.12 on ==> R16C6.7 both on & off: r11c14<>12
+11.0, Contradiction Forcing Chain (w/526 nodes): R13C15.16 on ==> R9C13.4 both on & off: r13c15<>16
+11.3, Contradiction Forcing Chain (w/333 nodes): R14C12.16 on ==> R12C12.8 both on & off: r14c12<>16
+11.8, Contradiction Forcing Chain (w/344 nodes): R14C12.4 on ==> R2C4.7 both on & off: r14c12<>4
+11.8, Contradiction Forcing Chain (w/349 nodes): R13C15.6 on ==> R1C13.2 both on & off: r13c15<>6
+3.4, Hidden Pair: Cells R13C13,R14C16: 6,16 in block: r13c13<>8
+11.9, Contradiction Forcing Chain (w/497 nodes): R5C5.10 on ==> R9C1.8 both on & off: r5c5<>10
+12.0, Region Forcing Chains (w/532 nodes): 2 in block ==> R4C15.4 off: r4c15<>4
+12.0, Contradiction Forcing Chain (w/615 nodes): R9C5.9 on ==> R16C4.3 both on & off: r9c5<>9
+12.0, Region Forcing Chains (w/634 nodes): 15 in row ==> R2C13.4 off: r2c13<>4
+12.0, Region Forcing Chains (w/708 nodes): 7 in column ==> R10C8.7 off: r10c8<>7
+11.5, Contradiction Forcing Chain (w/753 nodes): R2C7.7 on ==> R6C1.12 both on & off: r2c7<>7
+10.8, Contradiction Forcing Chain (w/363 nodes): R5C4.7 on ==> R14C9.13 both on & off: r5c4<>7
+11.0, Contradiction Forcing Chain (w/616 nodes): R5C13.11 on ==> R7C11.12 both on & off: r5c13<>11
+11.3, Contradiction Forcing Chain (w/375 nodes): R5C3.16 on ==> R7C7.3 both on & off: r5c3<>16
+11.4, Contradiction Forcing Chain (w/410 nodes): R4C8.1 on ==> R6C8.9 both on & off: r4c8<>1
+9.6, Contradiction Forcing Chain (w/171 nodes): R7C5.10 on ==> R8C2.8 both on & off: r7c5<>10
+2.6, Pointing: Cells R6C8,R8C8: 10 in block and column: r10c8<>10
+4.0, Hidden Triplet: Cells R10C5,R10C10,R10C12: 4,10,16 in row: r10c5<>7
+9.7, Contradiction Forcing Chain (w/214 nodes): R5C13.13 on ==> R16C8.7 both on & off: r5c13<>13
+9.4, Contradiction Forcing Chain (w/81 nodes): R1C7.3 on ==> R13C13.6 both on & off: r1c7<>3
+9.9, Contradiction Forcing Chain (w/71 nodes): R15C13.4 on ==> R3C14.14 both on & off: r15c13<>4
+9.9, Contradiction Forcing Chain (w/96 nodes): R8C6.13 on ==> R7C2.10 both on & off: r8c6<>13
+10.1, Contradiction Forcing Chain (w/132 nodes): R6C6.7 on ==> R9C11.8 both on & off: r6c6<>7
+10.1, Cell Forcing Chains (w/144 nodes): R10C8 ==> R4C14.4 off: r4c14<>4
+9.6, Cell Forcing Chains (w/159 nodes): R1C7 ==> R9C7.1 off: r9c7<>1
+10.3, Contradiction Forcing Chain (w/262 nodes): R3C13.4 on ==> R7C3.16 both on & off: r3c13<>4
+10.8, Contradiction Forcing Chain (w/283 nodes): R16C6.7 on ==> R12C8.9 both on & off: r16c6<>7
+9.4, Contradiction Forcing Chain (w/77 nodes): R5C9.11 on ==> R5C15.4 both on & off: r5c9<>11
+10.0, Contradiction Forcing Chain (w/127 nodes): R11C5.7 on ==> R13C13.16 both on & off: r11c5<>7
+9.6, Contradiction Forcing Chain (w/166 nodes): R11C7.5 on ==> R15C13.13 both on & off: r11c7<>5
+10.1, Contradiction Forcing Chain (w/172 nodes): R11C1.9 on ==> R12C8.14 both on & off: r11c1<>9
+10.2, Contradiction Forcing Chain (w/198 nodes): R8C3.10 on ==> R7C11.12 both on & off: r8c3<>10
+10.3, Contradiction Forcing Chain (w/330 nodes): R7C9.7 on ==> R8C1.10 both on & off: r7c9<>7
+10.6, Region Forcing Chains (w/179 nodes): 2 in row ==> R11C1.2 off: r11c1<>2
+10.4, Contradiction Forcing Chain (w/401 nodes): R8C6.5 on ==> R8C12.10 both on & off: r8c6<>5
+10.4, Region Forcing Chains (w/72 nodes): 7 in row ==> R6C1.10 off: r6c1<>10
+10.6, Contradiction Forcing Chain (w/190 nodes): R5C1.7 on ==> R8C14.8 both on & off: r5c1<>7
+10.8, Contradiction Forcing Chain (w/264 nodes): R7C9.12 on ==> R6C4.7 both on & off: r7c9<>12
+10.8, Region Forcing Chains (w/296 nodes): 11 in row ==> R8C16.10 off: r8c16<>10
+10.1, Contradiction Forcing Chain (w/139 nodes): R5C16.13 on ==> R2C12.4 both on & off: r5c16<>13
+2.8, Claiming: Cells R5C5,R5C7: 13 in row and block: r6c6<>13
+9.9, Contradiction Forcing Chain (w/73 nodes): R4C5.5 on ==> R8C6.9 both on & off: r4c5<>5
+10.1, Contradiction Forcing Chain (w/148 nodes): R12C6.9 on ==> R2C13.11 both on & off: r12c6<>9
+10.1, Contradiction Forcing Chain (w/149 nodes): R3C5.5 on ==> R8C2.10 both on & off: r3c5<>5
+10.1, Contradiction Forcing Chain (w/178 nodes): R11C6.9 on ==> R14C9.2 both on & off: r11c6<>9
+10.0, Contradiction Forcing Chain (w/120 nodes): R12C7.5 on ==> R5C5.13 both on & off: r12c7<>5
+10.0, Contradiction Forcing Chain (w/121 nodes): R12C8.14 on ==> R15C5.7 both on & off: r12c8<>14
+9.2, Contradiction Forcing Chain (w/43 nodes): R13C8.5 on ==> R15C15.4 both on & off: r13c8<>5
+9.2, Contradiction Forcing Chain (w/44 nodes): R9C7.5 on ==> R6C3.16 both on & off: r9c7<>5
+9.2, Contradiction Forcing Chain (w/36 nodes): R8C3.9 on ==> R5C4.11 both on & off: r8c3<>9
+9.9, Contradiction Forcing Chain (w/77 nodes): R5C5.9 on ==> R3C6.14 both on & off: r5c5<>9
+9.3, Contradiction Forcing Chain (w/59 nodes): R6C3.9 on ==> R4C4.16 both on & off: r6c3<>9
+9.5, Contradiction Forcing Chain (w/109 nodes): R9C9.9 on ==> R15C13.13 both on & off: r9c9<>9
+2.8, Claiming: Cells R9C1,R9C3,R9C4: 9 in row and block: r11c3<>9
+10.0, Contradiction Forcing Chain (w/105 nodes): R6C4.9 on ==> R5C5.13 both on & off: r6c4<>9
+9.3, Contradiction Forcing Chain (w/64 nodes): R9C1.9 on ==> R16C11.4 both on & off: r9c1<>9
+9.5, Contradiction Forcing Chain (w/98 nodes): R9C3.9 on ==> R15C13.13 both on & off: r9c3<>9
+1.2, Hidden Single: R9C4: 9 in block: r9c4=9
+2.6, Pointing: Cells R1C1,R1C3: 9 in block and row: r1c5<>9
+2.6, Pointing: Cells R12C2,R12C4: 14 in block and row: r12c7<>14
+3.4, Hidden Pair: Cells R1C1,R1C3: 9,13 in block: r1c3<>2
+8.5, Cell Forcing Chains (w/18 nodes): R3C7 ==> R9C7.16 off: r9c7<>16
+9.5, Contradiction Forcing Chain (w/99 nodes): R15C5.3 on ==> R4C4.16 both on & off: r15c5<>3
+9.6, Contradiction Forcing Chain (w/142 nodes): R9C1.13 on ==> R15C7.7 both on & off: r9c1<>13
+9.4, Contradiction Forcing Chain (w/88 nodes): R6C1.8 on ==> R15C1.7 both on & off: r6c1<>8
+9.6, Contradiction Forcing Chain (w/147 nodes): R11C5.10 on ==> R6C10.8 both on & off: r11c5<>10
+9.4, Cell Forcing Chains (w/93 nodes): R9C1 ==> R7C1.8 off: r7c1<>8
+9.5, Contradiction Forcing Chain (w/113 nodes): R12C10.16 on ==> R2C10.12 both on & off: r12c10<>16
+9.2, Cell Forcing Chains (w/45 nodes): R10C5 ==> R10C10.10 off: r10c10<>10
+9.4, Region Forcing Chains (w/65 nodes): 10 in column ==> R5C1.10 off: r5c1<>10
+9.4, Contradiction Forcing Chain (w/66 nodes): R8C1.10 on ==> R7C9.10 both on & off: r8c1<>10
+9.4, Contradiction Forcing Chain (w/79 nodes): R7C9.10 on ==> R4C8.7 both on & off: r7c9<>10
+9.4, Contradiction Forcing Chain (w/93 nodes): R9C5.10 on ==> R13C9.12 both on & off: r9c5<>10
+1.2, Hidden Single: R10C5: 10 in block: r10c5=10
+2.8, Claiming: Cells R10C10,R10C12: 16 in row and block: r12c12<>16
+9.5, Contradiction Forcing Chain (w/115 nodes): R15C10.12 on ==> R6C14.4 both on & off: r15c10<>12
+9.4, Contradiction Forcing Chain (w/80 nodes): R8C12.8 on ==> R10C6.2 both on & off: r8c12<>8
+9.4, Contradiction Forcing Chain (w/85 nodes): R15C9.10 on ==> R7C15.2 both on & off: r15c9<>10
+9.4, Contradiction Forcing Chain (w/85 nodes): R8C10.10 on ==> R7C15.2 both on & off: r8c10<>10
+1.5, Hidden Single: R15C10: 10 in column: r15c10=10
+9.4, Contradiction Forcing Chain (w/87 nodes): R9C1.8 off ==> R14C10.6 both on & off: r9c1<>10, r9c1=8
+9.1, Region Forcing Chains (w/31 nodes): 2 in block ==> R3C13.2 off: r3c13<>2
+9.1, Region Forcing Chains (w/32 nodes): 2 in row ==> R6C4.16 off: r6c4<>16
+8.5, Cell Forcing Chains (w/24 nodes): R10C14 ==> R4C6.16 off: r4c6<>16
+9.2, Contradiction Forcing Chain (w/43 nodes): R13C12.8 on ==> R12C16.12 both on & off: r13c12<>8
+9.3, Cell Forcing Chains (w/52 nodes): R15C3 ==> R15C11.1 off: r15c11<>1
+9.3, Contradiction Forcing Chain (w/52 nodes): R4C8.5 on ==> R6C6.9 both on & off: r4c8<>5
+2.6, Pointing: Cells R2C6,R3C6,R4C6: 5 in block and column: r11c6<>5, r12c6<>5
+9.1, Region Forcing Chains (w/29 nodes): 5 in column ==> R12C12.10 off: r12c12<>10
+2.8, Claiming: Cells R12C14,R12C16: 10 in row and block: r9c16<>10
+8.5, Cell Forcing Chains (w/20 nodes): R6C12 ==> R16C12.8 off: r16c12<>8
+9.1, Contradiction Forcing Chain (w/30 nodes): R14C6.12 on ==> R6C3.6 both on & off: r14c6<>12
+9.0, Contradiction Forcing Chain (w/23 nodes): R14C11.15 on ==> R6C6.16 both on & off: r14c11<>15
+1.5, Hidden Single: R14C6: 15 in row: r14c6=15
+4.0, Hidden Triplet: Cells R11C6,R12C6,R16C6: 6,12,13 in column: r12c6<>16
+4.0, Hidden Triplet: Cells R13C11,R13C12,R13C13: 6,15,16 in row: r13c11<>8
+9.2, Contradiction Forcing Chain (w/37 nodes): R12C10.8 on ==> R2C2.4 both on & off: r12c10<>8
+1.2, Hidden Single: R12C12: 8 in block: r12c12=8
+9.2, Double Forcing Chain (w/45 nodes): R4C4.16 on & off ==> R4C4.2 off: r4c4<>2
+2.6, Pointing: Cells R3C1,R3C3: 2 in block and row: r3c15<>2
+9.0, Region Forcing Chains (w/19 nodes): 10 in column ==> R5C16.11 off: r5c16<>11
+1.5, Hidden Single: R5C4: 11 in row: r5c4=11
+1.5, Hidden Single: R4C4: 16 in column: r4c4=16
+7.2, Forcing Chain (w/8 nodes): R2C6.7 off: r2c6<>7
+1.5, Hidden Single: R10C6: 7 in column: r10c6=7
+1.2, Hidden Single: R11C14: 7 in block: r11c14=7
+1.5, Hidden Single: R8C6: 2 in column: r8c6=2
+3.2, X-Wing: Cells R8C4,R8C14,R10C4,R10C14: 15 in 2 columns and 2 rows: r8c1<>15
+7.3, Forcing Chain (w/10 nodes): R11C1.10 off: r11c1<>10
+2.6, Pointing: Cells R9C3,R11C3: 10 in block and column: r7c3<>10
+9.0, Contradiction Forcing Chain (w/22 nodes): R6C8.7 on ==> R14C16.16 both on & off: r6c8<>7
+2.8, Claiming: Cells R6C1,R6C2,R6C4: 7 in row and block: r7c1<>7
+9.0, Cell Forcing Chains (w/23 nodes): R8C1 ==> R8C2.3 off: r8c2<>3
+9.0, Contradiction Forcing Chain (w/24 nodes): R6C1.9 on ==> R13C12.15 both on & off: r6c1<>9
+9.1, Region Forcing Chains (w/27 nodes): 4 in block ==> R2C12.4 off: r2c12<>4
+9.1, Region Forcing Chains (w/30 nodes): 13 in row ==> R14C2.4 off: r14c2<>4
+9.0, Cell Forcing Chains (w/22 nodes): R16C4 ==> R16C2.7 off: r16c2<>7
+9.0, Double Forcing Chain (w/23 nodes): R16C4.7 on & off ==> R6C4.7 off: r6c4<>7
+2.3, Naked Single: R6C4: 14: r6c4=14
+1.2, Hidden Single: R12C2: 14 in block: r12c2=14
+2.6, Pointing: Cells R10C4,R12C4: 3 in block and column: r16c4<>3
+7.1, Forcing Chain (w/6 nodes): R6C1.12 off: r6c1<>12
+9.1, Contradiction Forcing Chain (w/26 nodes): R15C1.3 on ==> R3C9.7 both on & off: r15c1<>3
+2.6, Pointing: Cells R14C2,R16C2: 3 in block and column: r7c2<>3
+9.0, Cell Forcing Chains (w/23 nodes): R16C8 ==> R14C9.3 off: r14c9<>3
+9.0, Cell Forcing Chains (w/23 nodes): R16C8 ==> R15C9.1 off: r15c9<>1
+1.5, Hidden Single: R15C3: 1 in row: r15c3=1
+2.3, Naked Single: R8C3: 5: r8c3=5
+1.5, Hidden Single: R12C8: 5 in column: r12c8=5
+1.2, Hidden Single: R11C5: 9 in block: r11c5=9
+1.2, Hidden Single: R12C10: 9 in block: r12c10=9
+2.3, Naked Single: R7C3: 16: r7c3=16
+2.6, Pointing: Cells R9C11,R11C11: 5 in block and column: r3c11<>5
+5.0, Naked Quad: Cells R3C1,R3C3,R3C9,R3C11: 2,4,7,10 in row: r3c7<>4
+6.6, Turbot Fish (w/4 nodes): R5C7.16 off: r5c7<>16
+5.6, Naked Quintuplet: Cells R5C7,R7C7,R9C7,R13C7,R15C7: 3,5,7,13,14 in column: r11c7<>13
+4.2, XY-Wing: Cells R10C8,R11C7,R10C15 on value 2: r11c15<>2
+7.2, Forcing Chain (w/8 nodes): R2C2.4 off: r2c2<>4
+7.1, Forcing Chain (w/6 nodes): R8C2.10 off: r8c2<>10
+2.6, Pointing: Cells R7C1,R7C2: 10 in block and row: r7c11<>10
+7.3, Forcing Chain (w/12 nodes): R12C16.16 off: r12c16<>16
+7.7, Nishio Forcing Chain (w/8 nodes): R16C11.4 on ==> R3C3.4 both on & off: r16c11<>4
+8.3, Cell Forcing Chains (w/10 nodes): R7C13 ==> R8C14.8 off: r8c14<>8
+7.3, Forcing Chain (w/12 nodes): R7C11.8 off: r7c11<>8
+2.6, Pointing: Cells R6C10,R8C10: 8 in block and column: r16c10<>8
+5.6, Naked Quintuplet: Cells R13C11,R13C12,R14C10,R14C11,R16C10: 4,6,12,15,16 in block: r13c9<>12, r14c9<>12, r15c9<>12, r15c11<>4,12, r16c9<>12, r16c11<>12, r16c12<>4,12
+7.1, Forcing Chain (w/6 nodes): R14C8.2 on: r14c8<>3, r14c8=2
+7.2, Forcing Chain (w/8 nodes): R16C9.13 off: r16c9<>13
+7.2, Forcing Chain (w/8 nodes): R16C14.13 off: r16c14<>13
+1.5, Hidden Single: R16C6: 13 in row: r16c6=13
+2.6, Pointing: Cells R13C5,R15C5: 12 in block and column: r9c5<>12
+2.6, Pointing: Cells R9C5,R9C7: 13 in block and row: r9c3<>13
+2.3, Naked Single: R9C3: 10: r9c3=10
+7.3, Bidirectional Cycle (w/10 nodes): R1C3,R11C3,R3C3,R3C1,R13C1,R13C9,R13C15,R5C15,R5C3: r5c1<>9
+7.2, Forcing Chain (w/8 nodes): R8C14.9 off: r8c14<>9
+7.3, Bidirectional Cycle (w/10 nodes): R1C3,R11C3,R11C7,R12C7,R9C5,R9C15,R5C15,R5C3: r9c13<>16, r9c16<>16
+4.0, Hidden Triplet: Cells R9C5,R9C7,R9C15: 13,14,16 in row: r9c15<>4,5,12
+7.2, Bidirectional Cycle (w/8 nodes): R5C3,R5C15,R9C15,R12C13,R13C13,R13C11,R5C11: r14c11<>6
+3.0, Naked Pair: Cells R14C11,R16C10: 4,12 in block: r14c10<>4,12
+7.3, Forcing Chain (w/10 nodes): R5C3.4 off: r5c3<>4
+7.1, Forcing Chain (w/6 nodes): R6C14.4 off: r6c14<>4
+7.2, Bidirectional Cycle (w/8 nodes): R3C3,R3C1,R13C1,R16C4,R15C1,R6C1,R6C3: r5c1<>4, r6c16<>4
+5.0, Naked Quad: Cells R1C1,R5C1,R8C1,R11C1: 3,9,13,15 in column: r7c1<>3
+7.2, Forcing Chain (w/8 nodes): R5C15.4 off: r5c15<>4
+3.2, X-Wing: Cells R5C13,R9C13,R5C16,R9C16: 4 in 2 rows and 2 columns: r1c13<>4, r4c16<>4
+6.5, Generalized X-Wing (w/2 nodes): R1C15,R2C14,R2C7,R1C7: r1c11<>4, r1c12<>4, r2c10<>4
+3.8, Swordfish: Cells R4C2,R4C10,R4C12,R10C10,R10C12,R16C2,R16C10: 4 in 3 columns and 3 rows: r16c14<>4
+7.1, Forcing Chain (w/6 nodes): R9C13.1 off: r9c13<>1
+2.8, Claiming: Cells R9C9,R9C11: 1 in row and block: r11c9<>1, r11c11<>1
+3.4, Hidden Pair: Cells R10C14,R11C13: 1,15 in block: r11c13<>5,6
+3.4, Hidden Pair: Cells R12C13,R13C13: 6,16 in column: r12c13<>2
+7.1, Forcing Chain (w/6 nodes): R14C2.3 on: r14c2<>12, r14c2=3
+2.0, Direct Hidden Pair: Cells R14C11,R14C14: 4,12 in row: r14c14<>13, r14c9=13
+1.2, Hidden Single: R14C12: 11 in block: r14c12=11
+1.2, Hidden Single: R7C9: 11 in block: r7c9=11
+1.2, Hidden Single: R8C16: 11 in block: r8c16=11
+1.2, Hidden Single: R15C13: 13 in block: r15c13=13
+2.0, Direct Hidden Pair: Cells R7C5,R7C7: 3,5 in row: r7c5<>7, r7c7<>7, r7c11=7
+1.2, Hidden Single: R3C9: 7 in block: r3c9=7
+2.0, Direct Hidden Pair: Cells R5C5,R5C7: 7,13 in block: r5c5<>3,16, r5c7<>3, r6c6=16
+1.5, Hidden Single: R4C6: 9 in column: r4c6=9
+2.6, Pointing: Cells R6C10,R6C12: 12 in block and row: r6c2<>12
+2.8, Claiming: Cells R7C5,R7C7: 3 in row and block: r8c8<>3
+3.0, Naked Pair: Cells R7C13,R7C15: 2,8 in block: r6c14<>8
+2.6, Pointing: Cells R7C13,R7C15: 8 in block and row: r7c2<>8
+3.0, Naked Pair: Cells R16C2,R16C10: 4,12 in row: r16c14<>12
+3.6, Naked Triplet: Cells R6C8,R6C14,R6C16: 9,10,13 in row: r6c10<>13, r6c12<>10,13
+2.3, Naked Single: R6C12: 12: r6c12=12
+2.6, Pointing: Cells R8C10,R8C12: 13 in block and row: r8c14<>13
+5.0, Naked Quad: Cells R1C5,R1C8,R4C5,R4C8: 3,6,7,15 in block: r2c8<>7, r3c5<>3
+1.5, Hidden Single: R3C15: 3 in row: r3c15=3
+2.6, Pointing: Cells R4C5,R4C8: 7 in block and row: r4c2<>7
+3.6, Naked Triplet: Cells R2C8,R10C8,R13C8: 1,8,14 in column: r16c8<>8
+3.0, Naked Pair: Cells R15C7,R16C8: 3,7 in block: r15c5<>7
+3.6, Naked Triplet: Cells R16C4,R16C8,R16C12: 2,3,7 in row: r16c9<>2,3
+6.6, Turbot Fish (w/4 nodes): R2C14.12 off: r2c14<>12
+6.7, Forcing X-Chain (w/6 nodes): R9C16.12 off: r9c16<>12
+2.0, Direct Hidden Pair: Cells R9C9,R9C11: 1,12 in row: r9c11<>5, r9c13=5
+1.2, Hidden Single: R4C15: 5 in block: r4c15=5
+1.2, Hidden Single: R2C10: 5 in block: r2c10=5
+1.2, Hidden Single: R3C6: 5 in block: r3c6=5
+1.2, Hidden Single: R2C6: 14 in block: r2c6=14
+1.2, Hidden Single: R3C14: 14 in block: r3c14=14
+1.2, Hidden Single: R11C11: 5 in block: r11c11=5
+1.2, Hidden Single: R11C9: 10 in block: r11c9=10
+1.2, Hidden Single: R9C16: 4 in block: r9c16=4
+1.2, Hidden Single: R5C13: 4 in block: r5c13=4
+1.2, Hidden Single: R8C14: 15 in block: r8c14=15
+1.2, Hidden Single: R5C1: 15 in block: r5c1=15
+1.2, Hidden Single: R8C1: 3 in block: r8c1=3
+1.2, Hidden Single: R5C3: 9 in block: r5c3=9
+1.2, Hidden Single: R1C1: 9 in block: r1c1=9
+1.2, Hidden Single: R1C3: 13 in block: r1c3=13
+1.2, Hidden Single: R6C3: 6 in block: r6c3=6
+1.2, Hidden Single: R6C1: 4 in block: r6c1=4
+1.2, Hidden Single: R6C2: 7 in block: r6c2=7
+1.2, Hidden Single: R2C4: 7 in block: r2c4=7
+1.2, Hidden Single: R4C2: 1 in block: r4c2=1
+1.2, Hidden Single: R3C3: 4 in block: r3c3=4
+1.0, Hidden Single: R11C3: 2 in column: r11c3=2
+1.2, Hidden Single: R3C1: 2 in block: r3c1=2
+1.0, Hidden Single: R2C2: 10 in block: r2c2=10
+1.2, Hidden Single: R3C11: 10 in block: r3c11=10
+1.2, Hidden Single: R1C13: 1 in block: r1c13=1
+1.2, Hidden Single: R2C8: 1 in block: r2c8=1
+1.2, Hidden Single: R3C5: 8 in block: r3c5=8
+1.2, Hidden Single: R3C7: 16 in block: r3c7=16
+1.0, Hidden Single: R3C13: 11 in row: r3c13=11
+1.2, Hidden Single: R2C7: 11 in block: r2c7=11
+1.2, Hidden Single: R1C7: 4 in block: r1c7=4
+1.2, Hidden Single: R2C14: 4 in block: r2c14=4
+1.2, Hidden Single: R2C13: 8 in block: r2c13=8
+1.2, Hidden Single: R8C4: 1 in block: r8c4=1
+1.2, Hidden Single: R8C2: 8 in block: r8c2=8
+1.2, Hidden Single: R7C1: 10 in block: r7c1=10
+1.0, Hidden Single: R7C2: 12 in block: r7c2=12
+1.0, Hidden Single: R16C2: 4 in column: r16c2=4
+1.2, Hidden Single: R5C9: 3 in block: r5c9=3
+1.2, Hidden Single: R5C11: 6 in block: r5c11=6
+1.2, Hidden Single: R6C10: 8 in block: r6c10=8
+1.2, Hidden Single: R8C12: 10 in block: r8c12=10
+1.0, Hidden Single: R8C10: 13 in block: r8c10=13
+1.0, Hidden Single: R8C8: 9 in row: r8c8=9
+1.2, Hidden Single: R6C8: 10 in block: r6c8=10
+1.2, Hidden Single: R7C15: 8 in block: r7c15=8
+1.2, Hidden Single: R7C13: 2 in block: r7c13=2
+1.2, Hidden Single: R6C14: 9 in block: r6c14=9
+1.0, Hidden Single: R6C16: 13 in row: r6c16=13
+1.2, Hidden Single: R4C14: 13 in block: r4c14=13
+1.2, Hidden Single: R2C12: 13 in block: r2c12=13
+1.0, Hidden Single: R2C16: 12 in row: r2c16=12
+1.2, Hidden Single: R5C16: 10 in block: r5c16=10
+1.0, Hidden Single: R5C15: 16 in block: r5c15=16
+1.2, Hidden Single: R11C1: 13 in block: r11c1=13
+1.2, Hidden Single: R10C4: 15 in block: r10c4=15
+1.0, Hidden Single: R12C4: 3 in block: r12c4=3
+1.0, Hidden Single: R16C4: 2 in column: r16c4=2
+1.2, Hidden Single: R11C7: 1 in block: r11c7=1
+1.2, Hidden Single: R12C7: 2 in block: r12c7=2
+1.2, Hidden Single: R9C5: 16 in block: r9c5=16
+1.2, Hidden Single: R9C7: 13 in block: r9c7=13
+1.2, Hidden Single: R5C5: 13 in block: r5c5=13
+1.0, Hidden Single: R5C7: 7 in row: r5c7=7
+1.2, Hidden Single: R10C8: 14 in block: r10c8=14
+1.2, Hidden Single: R10C14: 1 in block: r10c14=1
+1.2, Hidden Single: R10C16: 3 in block: r10c16=3
+1.2, Hidden Single: R10C15: 2 in block: r10c15=2
+1.2, Hidden Single: R4C16: 2 in block: r4c16=2
+1.0, Hidden Single: R1C15: 6 in block: r1c15=6
+1.2, Hidden Single: R4C8: 6 in block: r4c8=6
+1.2, Hidden Single: R4C5: 7 in block: r4c5=7
+1.2, Hidden Single: R1C5: 15 in block: r1c5=15
+1.0, Hidden Single: R1C8: 3 in block: r1c8=3
+1.2, Hidden Single: R4C12: 15 in block: r4c12=15
+1.0, Hidden Single: R4C10: 4 in row: r4c10=4
+1.2, Hidden Single: R10C12: 4 in block: r10c12=4
+1.0, Hidden Single: R10C10: 16 in row: r10c10=16
+1.2, Hidden Single: R12C14: 10 in block: r12c14=10
+1.2, Hidden Single: R11C15: 12 in block: r11c15=12
+1.2, Hidden Single: R12C6: 12 in block: r12c6=12
+1.0, Hidden Single: R11C6: 6 in block: r11c6=6
+1.0, Hidden Single: R11C13: 15 in row: r11c13=15
+1.2, Hidden Single: R9C15: 14 in block: r9c15=14
+1.2, Hidden Single: R12C13: 16 in block: r12c13=16
+1.0, Hidden Single: R12C16: 6 in block: r12c16=6
+1.0, Hidden Single: R13C13: 6 in column: r13c13=6
+1.0, Hidden Single: R14C16: 16 in column: r14c16=16
+1.2, Hidden Single: R15C1: 7 in block: r15c1=7
+1.0, Hidden Single: R13C1: 12 in block: r13c1=12
+1.2, Hidden Single: R15C7: 3 in block: r15c7=3
+1.2, Hidden Single: R7C5: 3 in block: r7c5=3
+1.0, Hidden Single: R7C7: 5 in block: r7c7=5
+1.0, Hidden Single: R13C7: 14 in column: r13c7=14
+1.2, Hidden Single: R13C5: 5 in block: r13c5=5
+1.0, Hidden Single: R15C5: 12 in column: r15c5=12
+1.2, Hidden Single: R16C8: 7 in block: r16c8=7
+1.0, Hidden Single: R13C8: 8 in block: r13c8=8
+1.2, Hidden Single: R13C9: 2 in block: r13c9=2
+1.2, Hidden Single: R1C12: 2 in block: r1c12=2
+1.2, Hidden Single: R16C12: 3 in block: r16c12=3
+1.0, Hidden Single: R13C12: 16 in column: r13c12=16
+1.2, Hidden Single: R14C11: 4 in block: r14c11=4
+1.2, Hidden Single: R14C10: 6 in block: r14c10=6
+1.0, Hidden Single: R16C10: 12 in column: r16c10=12
+1.0, Hidden Single: R14C14: 12 in row: r14c14=12
+1.0, Hidden Single: R16C14: 8 in column: r16c14=8
+1.2, Hidden Single: R15C11: 8 in block: r15c11=8
+1.2, Hidden Single: R16C9: 9 in block: r16c9=9
+1.0, Hidden Single: R16C11: 1 in row: r16c11=1
+1.2, Hidden Single: R9C9: 1 in block: r9c9=1
+1.0, Hidden Single: R9C11: 12 in block: r9c11=12
+1.2, Hidden Single: R1C9: 12 in block: r1c9=12
+1.0, Hidden Single: R1C11: 14 in block: r1c11=14
+1.0, Hidden Single: R15C9: 14 in column: r15c9=14
+1.0, Hidden Single: R13C11: 15 in block: r13c11=15
+1.0, Hidden Single: R13C15: 9 in row: r13c15=9
+1.0, Hidden Single: R15C15: 4 in block: r15c15=4
+ED=12.8/12.8/2.6
+
+IEMHOJDCLKNBAPFG
+FJCGBNKAPEIMHDOL
+BODLHEPMGAJFKNCI
+KANPGILFHDCOJMEB
+OBIKMHGLCNFADEPJ
+DGFNKPOJEHBLCIAM
+JLPMCAEDKOGIBFHN
+CHEANBFIDMPJLOGK
+HFJIPCMOABLGEKND
+EKLOJGHNFPMDIABC
+MPBDIFAKJCENOGLH
+ANGCDLBEOIKHPJMF
+LMKJEDNHBGOPFCIA
+NCHEAOIBMFDKGLJP
+GIAFLKCPNJHEMBDO
+PDOBFMJGILACNHKE
+
+ 9  5 13  8 15 10  4  3 12 11 14  2  1 16  6  7
+ 6 10  3  7  2 14 11  1 16  5  9 13  8  4 15 12
+ 2 15  4 12  8  5 16 13  7  1 10  6 11 14  3  9
+11  1 14 16  7  9 12  6  8  4  3 15 10 13  5  2
+15  2  9 11 13  8  7 12  3 14  6  1  4  5 16 10
+ 4  7  6 14 11 16 15 10  5  8  2 12  3  9  1 13
+10 12 16 13  3  1  5  4 11 15  7  9  2  6  8 14
+ 3  8  5  1 14  2  6  9  4 13 16 10 12 15  7 11
+ 8  6 10  9 16  3 13 15  1  2 12  7  5 11 14  4
+ 5 11 12 15 10  7  8 14  6 16 13  4  9  1  2  3
+13 16  2  4  9  6  1 11 10  3  5 14 15  7 12  8
+ 1 14  7  3  4 12  2  5 15  9 11  8 16 10 13  6
+12 13 11 10  5  4 14  8  2  7 15 16  6  3  9  1
+14  3  8  5  1 15  9  2 13  6  4 11  7 12 10 16
+ 7  9  1  6 12 11  3 16 14 10  8  5 13  2  4 15
+16  4 15  2  6 13 10  7  9 12  1  3 14  8 11  5
+
